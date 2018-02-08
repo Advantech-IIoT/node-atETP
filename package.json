@@ -1,0 +1,18 @@
+{
+  "name": "node-atetp",
+  "version": "0.1.5",
+  "description": "Advantech IIoT ETP module",
+  "main": "atETP.js",
+  "keywords": [
+    "ETP",
+    "Advantech",
+    "IIoT",
+    "AdvantechIIoT"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Advantech-IIoT/node-atetp"
+  },
+  "author": "Dylan.Huang",
+  "license": "Apache-2.0"
+}
