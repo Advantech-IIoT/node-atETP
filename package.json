@@ -1,6 +1,6 @@
 {
   "name": "node-atetp",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Advantech IIoT ETP module",
   "main": "atETP.js",
   "keywords": [
