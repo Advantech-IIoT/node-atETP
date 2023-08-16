@@ -1,6 +1,6 @@
 {
   "name": "node-atetp",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "Advantech IIoT ETP module",
   "main": "bin/atETP.js",
   "keywords": [
@@ -9,11 +9,13 @@
     "IIoT",
     "AdvantechIIoT"
   ],
-  "engines" : { "node" : ">=10.0.0 <11.0.0" },
   "repository": {
     "type": "git",
     "url": "https://github.com/Advantech-IIoT/node-atetp"
   },
-  "author": "Dylan.Huang",
-  "license": "Apache-2.0"
+  "author": "Payton.Ko",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-addon-api": "^5.0.0"
+  }
 }
